@@ -2,6 +2,8 @@
 
 writing toward a sense of place and time
 
+![Late afternoon sun shining through a break in the clouds over a field of tall prairie grasses](images/prairie_sunset.jpg)
+
 ---
 
 ## Writing: Selected Essays
@@ -23,6 +25,7 @@ writing toward a sense of place and time
 ---
 
 ## Bio
+![Headshot of Aleithia Stephens, a white woman with curly brown hair and round wire-rimmed glasses](images/Stephens_2025-10.jpg)
 
 Aleithia (Burgess) Stephens is a writer attentive to where the timeless and the present moment meet. Her prose has appeared or is forthcoming in *Glint Literary Magazine*, *Painted Pebble Lit Mag*, *Star 82 Review*, and elsewhere. She is at work on a collection of essays about sacred music, doubt, and forgiveness.
 
@@ -37,6 +40,8 @@ Originally from Tucson, Arizona, Aleithia has lived in Colorado, Oklahoma, Ohio,
 ## Contact
 
 Reach Aleithia via email: aleithia dot stephens at gmail dot com
+
+![A path through a field of tall prairie grasses under a blue sky with scattered clouds](images/labyrinth_path.jpg)
 
 Instagram: [@aleithias.words](https://www.instagram.com/aleithias.words/)
 
