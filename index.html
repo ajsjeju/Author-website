@@ -173,7 +173,13 @@
     background: var(--paper-raised);
     border: 1px solid var(--line);
   }
-  .hero-image svg { width: 100%; height: 100%; display: block; }
+  .hero-image svg,
+  .hero-image img {
+    width: 100%;
+    height: 100%;
+    display: block;
+    object-fit: cover;
+  }
 
   /* ---------- Section heading pattern ---------- */
   .page-head { margin-bottom: 46px; }
@@ -260,6 +266,11 @@
     font-size: 2.6rem;
     color: var(--accent);
   }
+  .portrait img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
   .bio-copy p {
     margin: 0 0 20px;
     max-width: 60ch;
@@ -320,13 +331,8 @@
       <h1 class="hero-name">Aleithia Stephens</h1>
       <p class="hero-tagline">writing toward a sense of place and time</p>
 
-      <div class="hero-image" aria-hidden="true">
-        <svg viewBox="0 0 480 300" preserveAspectRatio="xMidYMid slice">
-          <rect width="480" height="300" fill="var(--paper-raised)"/>
-          <circle cx="350" cy="80" r="34" fill="var(--accent-soft)"/>
-          <path d="M0 210 C 90 160, 170 230, 260 190 C 340 155, 400 205, 480 175 L 480 300 L 0 300 Z" fill="var(--line)"/>
-          <line x1="0" y1="150" x2="480" y2="150" stroke="var(--ink-soft)" stroke-width="1" stroke-dasharray="4 6" opacity="0.5"/>
-        </svg>
+      <div class="hero-image">
+        <img src="images/home-photo.jpg" alt="ADD ALT TEXT HERE">
       </div>
     </div>
   </section>
@@ -370,7 +376,9 @@
     </div>
 
     <div class="bio-grid">
-      <div class="portrait" aria-hidden="true"><span>AS</span></div>
+      <div class="portrait">
+        <img src="images/bio-photo.jpg" alt="ADD ALT TEXT HERE">
+      </div>
       <div class="bio-copy">
         <p>Aleithia (Burgess) Stephens is a writer attentive to where the timeless and the present moment meet. Her prose has appeared or is forthcoming in <em>Glint Literary Magazine</em>, <em>Painted Pebble Lit Mag</em>, <em>Star 82 Review</em>, and elsewhere. She is at work on a collection of essays about sacred music, doubt, and forgiveness.</p>
         <p>Musical sensibilities deeply influence Aleithia’s writing. Wandering into an Evensong service at Westminster Abbey at age 23 kindled what has become an enduring love of the Anglican choral tradition. She now has almost 20 years of experience singing in semi-professional Episcopal choirs, including at St Andrew’s Cathedral, Aberdeen, Christ Church, New Haven, and St. Paul’s Cathedral, Oklahoma City.</p>
@@ -388,13 +396,8 @@
 
     <p class="contact-text">Reach Aleithia via email: aleithia dot stephens at gmail dot com</p>
 
-    <div class="hero-image" aria-hidden="true">
-      <svg viewBox="0 0 480 300" preserveAspectRatio="xMidYMid slice">
-        <rect width="480" height="300" fill="var(--paper-raised)"/>
-        <circle cx="350" cy="80" r="34" fill="var(--accent-soft)"/>
-        <path d="M0 210 C 90 160, 170 230, 260 190 C 340 155, 400 205, 480 175 L 480 300 L 0 300 Z" fill="var(--line)"/>
-        <line x1="0" y1="150" x2="480" y2="150" stroke="var(--ink-soft)" stroke-width="1" stroke-dasharray="4 6" opacity="0.5"/>
-      </svg>
+    <div class="hero-image">
+      <img src="images/contact-photo.jpg" alt="ADD ALT TEXT HERE">
     </div>
   </section>
 
