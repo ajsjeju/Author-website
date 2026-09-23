@@ -6,7 +6,7 @@
 <title>Aleithia Stephens — Author</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,400;1,9..144,500&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Open+Sans:wght@400;500&display=swap" rel="stylesheet">
 <style>
 
   /* ---------- Tokens ---------- */
@@ -18,21 +18,10 @@
     --accent: #7A2333;
     --accent-soft: #7A233314;
     --line: #DDD6C6;
-    --serif: 'Merriweather,' 'Fraunces', Georgia, 'Iowan Old Style', serif;
-    --sans: 'Open Sans,' 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    --serif: 'Merriweather', Georgia, 'Iowan Old Style', serif;
+    --sans: 'Open Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
   }
 
-  @media (prefers-color-scheme: dark) {
-    :root:not([data-theme="light"]) {
-      --paper: #17150F;
-      --paper-raised: #1F1C15;
-      --ink: #EDE7D8;
-      --ink-soft: #A39C8C;
-      --accent: #D98A93;
-      --accent-soft: #D98A9320;
-      --line: #37332A;
-    }
-  }
   :root[data-theme="dark"] {
     --paper: #17150F;
     --paper-raised: #1F1C15;
@@ -92,7 +81,7 @@
   }
   .wordmark {
     font-family: var(--serif);
-    font-weight: 500;
+    font-weight: 700;
     font-size: 1.35rem;
     letter-spacing: 0.01em;
     text-decoration: none;
@@ -142,8 +131,6 @@
     to   { opacity: 1; transform: translateY(0); }
   }
 
-  .measure { max-width: 620px; }
-
   /* ---------- Home ---------- */
   .home-hero {
     text-align: center;
@@ -151,7 +138,7 @@
   }
   .hero-name {
     font-family: var(--serif);
-    font-weight: 500;
+    font-weight: 700;
     font-size: clamp(2.4rem, 5vw, 3.6rem);
     line-height: 1.08;
     margin: 0 0 18px;
@@ -171,7 +158,6 @@
     aspect-ratio: 16 / 10;
     margin: 0 auto;
     background: var(--paper-raised);
-    border: 0px solid var(--line);
   }
   .hero-image svg,
   .hero-image img {
@@ -185,7 +171,7 @@
   .page-head { margin-bottom: 46px; }
   .page-head h1 {
     font-family: var(--serif);
-    font-weight: 500;
+    font-weight: 700;
     font-size: clamp(2rem, 4vw, 2.6rem);
     margin: 0 0 14px;
   }
@@ -260,17 +246,24 @@
     align-items: center;
     justify-content: center;
   }
-  .portrait span {
-    font-family: var(--serif);
-    font-style: italic;
-    font-size: 2.6rem;
-    color: var(--accent);
-  }
   .portrait img {
     width: 100%;
     height: 100%;
     object-fit: cover;
   }
+  .photo-credit {
+    margin: 10px 0 0;
+    font-size: 0.78rem;
+    color: var(--ink-soft);
+    text-align: center;
+  }
+  .photo-credit a {
+    color: inherit;
+    text-decoration: underline;
+    text-decoration-color: var(--ink-soft);
+    text-underline-offset: 2px;
+  }
+  .photo-credit a:hover { color: var(--accent); text-decoration-color: var(--accent); }
   .bio-copy p {
     margin: 0 0 20px;
     max-width: 60ch;
@@ -282,13 +275,20 @@
     max-width: 520px;
     margin: 0 0 40px;
   }
-.contact-image {
-      height: 100%;
+  .contact-image {
+    width: 100%;
+    max-width: 800px;
     max-height: 500px;
     aspect-ratio: 16 / 10;
     margin: 0 auto;
     background: var(--paper-raised);
-}
+  }
+  .contact-image img {
+    width: 100%;
+    height: 100%;
+    display: block;
+    object-fit: cover;
+  }
   /* ---------- Footer ---------- */
   footer {
     max-width: 920px;
@@ -382,8 +382,11 @@
     </div>
 
     <div class="bio-grid">
-      <div class="portrait">
-        <img src="images/Stephens_2025-10.jpg" alt="Headshot of Aleithia Stephens, a white woman with curly brown hair and round wire-rimmed glasses">
+      <div>
+        <div class="portrait">
+          <img src="images/Stephens_2025-10.jpg" alt="Headshot of Aleithia Stephens, a white woman with curly brown hair and round wire-rimmed glasses">
+        </div>
+        <p class="photo-credit">Photo credit: <a href="https://www.ohjoyphoto.com/" target="_blank" rel="noopener noreferrer">J. Neel</a></p>
       </div>
       <div class="bio-copy">
         <p>Aleithia (Burgess) Stephens is a writer who is attentive to where the timeless and the present moment meet. Her prose has appeared or is forthcoming in <em>Glint Literary Magazine</em>, <em>Painted Pebble Lit Mag</em>, <em>Star 82 Review</em>, and elsewhere. She is at work on a collection of essays about sacred music, doubt, and forgiveness.</p>
