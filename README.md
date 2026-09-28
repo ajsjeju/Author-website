@@ -25,7 +25,7 @@ writing toward a sense of place and time
 ---
 
 ## Bio
-![Headshot of Aleithia Stephens, a white woman with curly brown hair and round wire-rimmed glasses](images/Stephens_2025-10.jpg)
+![Headshot of Aleithia Stephens, a white woman with curly brown hair and round wire-rimmed glasses](images/Stephens_2026-09.jpg)
 
 Aleithia (Burgess) Stephens is a writer attentive to where the timeless and the present moment meet. Her prose has appeared or is forthcoming in *Glint Literary Magazine*, *Painted Pebble Lit Mag*, *Star 82 Review*, and elsewhere. She is at work on a collection of essays about sacred music, doubt, and forgiveness.
 
