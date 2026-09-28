@@ -10,7 +10,7 @@ writing toward a sense of place and time
 
 **Night Train** // *Glint Literary Journal* (2026, forthcoming); originally published in *Zest Literary Magazine* (2014)
 
-**Tell** // *The Bulb Region* (2026)
+**Tell** // *The Bulb Region* (2026, forthcoming)
 
 [**Postscript**](https://paintedpebblelit.com/a-stephens-postscript/) // *Painted Pebble Lit Mag* (2026)
 
