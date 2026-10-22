@@ -31,7 +31,7 @@ Aleithia (Burgess) Stephens is a writer, educator, and choral musician. Her pros
 
 Wandering into an Evensong service at Westminster Abbey in 2009 kindled in Aleithia a longstanding fascination with the Anglican choral tradition, which she sees as embodying what T. S. Eliot called “the point of intersection of the timeless / With time.” In the years since, she has sung with choirs on both sides of the Atlantic, including St Andrew’s Cathedral (Aberdeen), Christ Church New Haven, and St. Paul’s Cathedral (Oklahoma City). She is also a member of the <a href="https://www.herberthowellssociety.com/">Herbert Howells Society</a>.
 
-Aleithia holds bachelor’s degrees in History and Philosophy from Oklahoma State University and an MLitt in Renaissance and Early Modern Studies from the University of Aberdeen, where she also undertook doctoral research in Atlantic World history. She has worked full-time in higher education since 2013 and is currently part of Baylor University’s Learning Design team.
+Aleithia holds bachelor’s degrees in History and Philosophy from Oklahoma State University and an MLitt in Renaissance and Early Modern Studies from the University of Aberdeen, where she also undertook doctoral research in Atlantic World history. She has worked full-time in higher education since 2013 and currently is part of Baylor University’s Learning Design team.
 
 Originally from Tucson, Arizona, Aleithia has lived in Colorado, Oklahoma, Ohio, Connecticut, South Korea, and Scotland. After moving back to Oklahoma for the third time, she decided to call it home. She lives in Oklahoma City with her husband, son, and two tabby cats.
 
