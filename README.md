@@ -27,13 +27,14 @@ writing toward a sense of place and time
 ## Bio
 ![Headshot of Aleithia Stephens, a white woman with curly brown hair and round wire-rimmed glasses](images/stephens_2026-09.jpg)
 
-Aleithia (Burgess) Stephens is a writer attentive to where the timeless and the present moment meet. Her prose has appeared or is forthcoming in *Glint Literary Magazine*, *Painted Pebble Lit Mag*, *Star 82 Review*, and elsewhere. She is at work on a collection of essays about sacred music, doubt, and forgiveness.
+Aleithia (Burgess) Stephens is a writer, educator, and choral musician. Her prose has appeared or is forthcoming in The Bulb Region, Glint Literary Journal, Painted Pebble Lit Mag, and elsewhere. She is at work on a collection of essays about sacred music, doubt, and forgiveness.
 
-Musical sensibilities deeply influence Aleithia's writing. Wandering into an Evensong service at Westminster Abbey at age 23 kindled what has become an enduring love of the Anglican choral tradition. She now has almost 20 years of experience singing in semi-professional Episcopal choirs, including at St Andrew's Cathedral, Aberdeen, Christ Church, New Haven, and St. Paul's Cathedral, Oklahoma City.
+Wandering into an Evensong service at Westminster Abbey in 2009 kindled in Aleithia a longstanding fascination with the Anglican choral tradition, which she sees as embodying what T. S. Eliot called “the point of intersection of the timeless / With time.” In the years since, she has sung with choirs on both sides of the Atlantic, including St Andrew’s Cathedral (Aberdeen), Christ Church New Haven, and St. Paul’s Cathedral (Oklahoma City). She is also a member of the <a href="https://www.herberthowellssociety.com/">Herbert Howells Society</a>.
 
-Aleithia holds bachelor's degrees in History and Philosophy from Oklahoma State University and an MLitt in Renaissance and Early Modern Studies from the University of Aberdeen, where she also undertook doctoral research in Atlantic World history. She has worked full-time in higher education since 2013. Currently, Aleithia is the Manager of Instructional Support on Baylor University's Learning Design team.
+Aleithia holds bachelor’s degrees in History and Philosophy from Oklahoma State University and an MLitt in Renaissance and Early Modern Studies from the University of Aberdeen, where she also undertook doctoral research in Atlantic World history. She has worked full-time in higher education since 2013 and is currently the Manager of Instructional Support on Baylor University’s Learning Design team.
 
 Originally from Tucson, Arizona, Aleithia has lived in Colorado, Oklahoma, Ohio, Connecticut, South Korea, and Scotland. After moving back to Oklahoma for the third time, she decided to call it home. She lives in Oklahoma City with her husband, son, and two tabby cats.
+
 
 ---
 
