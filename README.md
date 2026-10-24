@@ -12,7 +12,7 @@ writing toward a sense of place and time
 
 **Night Train** // *Glint Literary Journal* (forthcoming); first published in *Zest Literary Magazine* (2014)
 
-**"Superheroes" by Daft Punk** // *Major 7th Magazine* (forthcoming)
+**Superheroes by Daft Punk** // *Major 7th Magazine* (forthcoming)
 
 [**Postscript**](https://paintedpebblelit.com/a-stephens-postscript/) // *Painted Pebble Lit Mag* (2026)
 
