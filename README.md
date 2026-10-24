@@ -8,9 +8,11 @@ writing toward a sense of place and time
 
 ## Writing: Selected Essays
 
+**Tell** // *The Bulb Region* (forthcoming)
+
 **Night Train** // *Glint Literary Journal* (forthcoming); first published in *Zest Literary Magazine* (2014)
 
-**Tell** // *The Bulb Region* (forthcoming)
+**"Superheroes" by Daft Punk** // *Major 7th Magazine* (forthcoming)
 
 [**Postscript**](https://paintedpebblelit.com/a-stephens-postscript/) // *Painted Pebble Lit Mag* (2026)
 
