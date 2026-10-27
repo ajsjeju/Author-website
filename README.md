@@ -29,7 +29,7 @@ writing toward a sense of place and time
 ## Bio
 ![Headshot of Aleithia Stephens, a white woman with curly brown hair and round wire-rimmed glasses](images/stephens_2026-09.jpg)
 
-Aleithia (Burgess) Stephens is a writer, educator, and choral musician. Her prose has appeared or is forthcoming in The Bulb Region, Glint Literary Journal, Painted Pebble Lit Mag, and elsewhere. She is at work on a collection of essays about sacred music, doubt, and forgiveness.
+Aleithia (Burgess) Stephens is a writer, educator, and choral musician. Her prose has appeared or is forthcoming in The Bulb Region, Glint Literary Journal, Major 7th Magazine, and elsewhere. She is at work on a collection of essays about sacred music, doubt, and forgiveness.
 
 Wandering into an Evensong service at Westminster Abbey in 2009 kindled in Aleithia a longstanding fascination with the Anglican choral tradition, which she sees as embodying what T. S. Eliot called “the point of intersection of the timeless / With time.” In the years since, she has sung with choirs on both sides of the Atlantic, including St Andrew’s Cathedral (Aberdeen), Christ Church New Haven, and St. Paul’s Cathedral (Oklahoma City). A member of the <a href="https://www.herberthowellssociety.com/" target="_blank">Herbert Howells Society</a>, she says, "You've gotta hear <a href="https://youtu.be/vSdIbQBYKSw?si=p4guWRbtNjktL2RV>" target="_blank">this one song</a>, it'll change your life; I swear!"
 
