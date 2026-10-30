@@ -8,7 +8,7 @@ writing toward a sense of place and time
 
 ## Writing
 
-###Essays
+### Essays
 
 **Night Train** // *Glint Literary Journal* (forthcoming); first published in *Zest Literary Magazine* (2014)
 
@@ -16,7 +16,7 @@ writing toward a sense of place and time
 
 [**As American As Apple Pie**](files/as-american-as-apple-pie_2010.pdf) // *ExPat Lit* (2010)
 
-###Flash Nonfiction
+### Flash Nonfiction
 
 **Tell** // *The Bulb Region* (forthcoming)
 
