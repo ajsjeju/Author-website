@@ -37,10 +37,6 @@ Aleithia holds bachelor’s degrees in History and Philosophy from Oklahoma Stat
 
 Originally from Tucson, Arizona, Aleithia has lived in Colorado, Oklahoma, Ohio, Connecticut, South Korea, and Scotland. After moving back to Oklahoma for the third time, she decided to call it home. She lives in Oklahoma City with her husband, son, and two tabby cats.
 
-Aleithia holds bachelor’s degrees in History and Philosophy from Oklahoma State University and an MLitt in Renaissance and Early Modern Studies from the University of Aberdeen, where she also undertook doctoral research in Atlantic World history. She has worked full-time in higher education since 2013 and currently is part of Baylor University’s Learning Design team.
-
-Originally from Tucson, Arizona, Aleithia has lived in Colorado, Oklahoma, Ohio, Connecticut, South Korea, and Scotland. After moving back to Oklahoma for the third time, she decided to call it home. She lives in Oklahoma City with her husband, son, and two tabby cats.
-
 
 ---
 
