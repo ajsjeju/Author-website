@@ -6,7 +6,7 @@ writing toward a sense of place and time
 
 ---
 
-## Writing
+## Selected Writing
 
 ### Essays
 
