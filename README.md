@@ -12,7 +12,7 @@ writing toward a sense of place and time
 
 **Tell** // *The Bulb Region* (forthcoming)
 
-**Superheroes by Daft Punk** // *Major 7th Magazine* (forthcoming)
+[**Superheroes by Daft Punk**](https://www.major7mag.com/post/superheroes-daft-punk-by-aleithia-stephens) // *Major 7th Magazine* (2026)
 
 [**Postscript**](https://paintedpebblelit.com/a-stephens-postscript/) // *Painted Pebble Lit Mag* (2026)
 
