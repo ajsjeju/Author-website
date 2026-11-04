@@ -16,7 +16,7 @@ writing toward a sense of place and time
 
 [**Postscript**](https://paintedpebblelit.com/a-stephens-postscript/) // *Painted Pebble Lit Mag* (2026)
 
-**Lex Orandi, Lex Credendi** // in Robert Hendrickson's book, [*Yearning: Young Adults, Transformation, and the Church*](https://bookshop.org/p/books/yearning-authentic-transformation-young-adults-and-the-church-robert-hendrickson/d9e338ed2550db28?ean=9780819228680&next=t) (2013)
+**Lex Orandi, Lex Credendi** // in Robert Hendrickson's book, [*Yearning: Authentic Transformation, Young Adults, and the Church*](https://bookshop.org/p/books/yearning-authentic-transformation-young-adults-and-the-church-robert-hendrickson/d9e338ed2550db28?ean=9780819228680&next=t) (2013)
 
 [**Muzak Serenade**](https://star82review.com/1.3/burgess-muzak.html) // *Star 82 Review* (2013)
 
