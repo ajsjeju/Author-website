@@ -10,7 +10,7 @@ writing toward a sense of place and time
 
 **Night Train** // *Glint Literary Journal* (forthcoming); first published in *Zest Literary Magazine* (2014)
 
-[**Tell**](https://bulbregion.com/Tell-by-Aleithia-Stephens) // *The Bulb Region* (forthcoming)
+[**Tell**](https://bulbregion.com/Tell-by-Aleithia-Stephens) // *The Bulb Region* (2026)
 
 [**Superheroes by Daft Punk**](https://www.major7mag.com/post/superheroes-daft-punk-by-aleithia-stephens) // *Major 7th Magazine* (2026)
 
